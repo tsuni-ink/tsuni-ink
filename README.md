@@ -1,7 +1,11 @@
-## Hi there 👋
+## Heya! 
+I'm Tsuni, a 22 year old developer from Wisconsin, USA, currently studying Computer Science. When I'm not programming, you'll find me hiking, mountain biking, reading, tinkering with my old-PC-turned-server, or playing video games. I'm always looking out for new projects that excite me, so feel free to reach out!
+
+<h3 align="center">What am I up to now?</h3>
+<p align="center"><img width="400" src="https://dsc-readme.tsuni.dev/api/user/214167454291722241?banner=https%3A%2F%2Ftsuni.dev%2Fimages%2Fsobanner.png&theme=nitroLight&primaryColor=8080FF&accentColor=FF80C0"></img></p>
 
 <!--
-**tsuni-ink/tsuni-ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TetraTsunami/TetraTsunami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
